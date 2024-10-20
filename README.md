@@ -34,9 +34,6 @@ CNVrecaller is a tool designed for converting CNVR VCF (Variant Call Format) gen
    After confirming that your executable works, you can clean up unnecessary files created by PyInstaller
    rm -rf build/ CNVrecaller.spec
 
-bash
-
-rm -rf build/ CNVrecaller.spec
 
 ## Usage
 To use CNVrecaller, run the following command:
